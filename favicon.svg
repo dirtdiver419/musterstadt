@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wappen der Stadt Musterstadt" width="32" height="32" viewBox="-4 1 74 74"><defs><clipPath id="fav-s"><path d="M3 3h60v38c0 20-14 32-30 36C17 73 3 61 3 41z"/></clipPath></defs>
+<path d="M3 3h60v38c0 20-14 32-30 36C17 73 3 61 3 41z" fill="#b8341b"/>
+<g clip-path="url(#fav-s)">
+<path d="M3 50 q8 -5 15 0 t15 0 t15 0 t15 0 v6 q-8 -5 -15 0 t-15 0 t-15 0 t-15 0z" fill="#fff"/>
+<path d="M5 58 q7 -4 14 0 t14 0 t14 0 t14 0 v4 q-7 -4 -14 0 t-14 0 t-14 0 t-14 0z" fill="#2b5aa0"/>
+</g>
+<g transform="translate(33 24)"><path d="M-15 -14 L-9 4 L9 4 L15 -14 L5 -4 L-5 -4z" fill="#e8742a" stroke="#222" stroke-width="1"/><path d="M-9 4 L0 15 L9 4z" fill="#fff" stroke="#222" stroke-width="1"/><circle cx="0" cy="14" r="1.6" fill="#222"/><circle cx="-4" cy="1" r="1.2" fill="#222"/><circle cx="4" cy="1" r="1.2" fill="#222"/></g>
+<rect x="27" y="40" width="12" height="4" fill="#e8b32a" stroke="#222" stroke-width="0.8"/><rect x="31" y="35" width="4" height="5" fill="#7a4a1d" stroke="#222" stroke-width="0.8"/><circle cx="33" cy="34" r="3" fill="#7a4a1d" stroke="#222" stroke-width="0.8"/>
+<path d="M3 3h60v38c0 20-14 32-30 36C17 73 3 61 3 41z" fill="none" stroke="#222" stroke-width="3"/></svg>

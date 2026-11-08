@@ -1,0 +1,52 @@
+/* KTS 4.1 - Datenzentrale Rheinland-Mitte */
+body{margin:0;background:#e9edf2;font-family:Tahoma,Verdana,Arial,sans-serif;font-size:12px;color:#1e2a36}
+#rahmen{width:900px;margin:16px auto;background:#fff;border:1px solid #b9c4d0;box-shadow:0 2px 6px rgba(0,0,0,.15)}
+a{color:#0b5c8f}
+#kopf{background:linear-gradient(#0f6aa3,#0a4a74);color:#fff;padding:12px 16px;overflow:hidden}
+#kopf .logo{float:left}
+#kopf .kts{font-size:26px;font-weight:bold;letter-spacing:3px;background:#fff;color:#0a4a74;padding:0 8px;border-radius:3px;margin-right:10px}
+#kopf .unter{font-size:14px;vertical-align:4px}
+#kopf .rechts{float:right;text-align:right;font-size:11px;color:#fff}
+#kopf .rechts a{color:#fff}
+#kopf .rechts b{color:#ffd76a}
+#schritte{list-style:none;margin:0;padding:0;display:flex;background:#dde5ee;border-bottom:1px solid #b9c4d0}
+#schritte li{flex:1;padding:7px 10px;font-size:11px;color:#46525e;border-right:1px solid #c6d0db}
+#schritte li.aktiv{background:#fff;color:#0a4a74;font-weight:bold}
+#schritte li.erledigt{color:#1f5a29}
+#inhalt{padding:16px 20px;min-height:360px;line-height:1.5}
+h1{font-size:17px;color:#0a4a74;margin:0 0 10px;font-weight:normal}
+h2{font-size:13px;color:#0a4a74;margin:14px 0 6px}
+.wahl{display:block;width:100%;text-align:left;background:#f4f7fa;border:1px solid #c6d0db;border-radius:4px;padding:8px 10px;margin:0 0 6px;font:inherit;cursor:pointer;color:#1e2a36}
+.wahl:hover,.wahl:focus{background:#e3eef8;border-color:#0f6aa3;outline:none}
+.wahl b{color:#0a4a74}
+button.knopf{background:linear-gradient(#1a7fbf,#0a4a74);color:#fff;border:0;border-radius:4px;padding:6px 14px;font:inherit;font-weight:bold;cursor:pointer}
+button.knopf:focus{outline:3px solid #ffb84d}
+button.leise{background:#e3e8ee;color:#1e2a36;border:1px solid #b9c4d0;border-radius:4px;padding:5px 12px;font:inherit;cursor:pointer}
+.kal{border-collapse:collapse;width:100%;margin-top:8px}
+.kal th{background:#dde5ee;padding:4px;font-size:11px;color:#0a4a74}
+.kal td{border:1px solid #d3dbe4;height:46px;vertical-align:top;padding:3px;font-size:11px;width:20%}
+.kal td.voll{background:#f6dcdc;color:#8a2a2a}
+.kal td.zu{background:#eceff2;color:#56616c}
+.kal td.frei{background:#cfeccf}
+.kal td .tag{font-weight:bold;display:block}
+.slot{background:#2f8a3c;color:#fff;border:0;border-radius:3px;padding:3px 6px;font:inherit;font-weight:bold;cursor:pointer;margin-top:2px}
+.slot:focus{outline:3px solid #ffb84d}
+.hinweis{background:#fff7d6;border:1px solid #e1c75c;border-radius:4px;padding:8px 10px;margin:8px 0}
+.fehler{background:#fbe3e0;border:1px solid #d9796c;border-radius:4px;padding:8px 10px;margin:8px 0;color:#8a1f13}
+.gut{background:#e2f3e4;border:1px solid #7fbf8a;border-radius:4px;padding:8px 10px;margin:8px 0}
+.klein{font-size:11px;color:#4f5c69}
+table.form td{padding:4px 6px;vertical-align:top}
+input,select{font:inherit;border:1px solid #9aa8b6;border-radius:3px;padding:3px 5px}
+input:focus,select:focus{outline:2px solid #ffb84d}
+.bestaetigung{border:2px solid #0a4a74;border-radius:6px;padding:12px 16px}
+.bestaetigung .nr{font-family:"Courier New",monospace;font-size:20px;font-weight:bold;letter-spacing:1px;color:#0a4a74}
+.bestaetigung table td{padding:3px 8px 3px 0;vertical-align:top}
+#fuss{border-top:1px solid #b9c4d0;background:#f4f7fa;padding:8px 16px;font-size:11px;color:#4f5c69}
+.sr{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
+#telefon{position:fixed;inset:0;background:rgba(10,30,50,.55);display:flex;align-items:center;justify-content:center}
+#telefon[hidden]{display:none}
+#telefon .box{background:#fff;width:440px;border-radius:8px;padding:16px 18px;box-shadow:0 4px 16px rgba(0,0,0,.35)}
+#telefon .anzeige{background:#1e2a36;color:#9fe3a0;font-family:"Courier New",monospace;padding:8px 10px;border-radius:4px;margin:8px 0;min-height:20px}
+#telefon .protokoll{max-height:200px;overflow-y:auto;background:#f4f7fa;border:1px solid #d3dbe4;padding:6px 8px;margin:8px 0;font-size:12px}
+#telefon .protokoll p{margin:0 0 4px}
+@media print{#kopf,#schritte,#fuss,.nodruck{display:none}#rahmen{border:0;box-shadow:none}}
