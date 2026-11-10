@@ -6,6 +6,16 @@ Changes to the website of the City of Musterstadt and the Kreis Muster (fictiona
 
 ---
 
+## [4.0.1]
+
+### Added
+- `LICENSE` with two parts: PolyForm Noncommercial 1.0.0 for the code, CC BY-NC-SA 4.0 for texts, images and PDFs; license section in `README.md`.
+
+### Deutsch
+
+#### Hinzugefügt
+- `LICENSE` in zwei Teilen: PolyForm Noncommercial 1.0.0 für den Code, CC BY-NC-SA 4.0 für Texte, Bilder und PDFs; Lizenzabschnitt in `README.md`.
+
 ## [4.0.0]
 
 ### Added

@@ -18,6 +18,10 @@ Die Seiten speichern keine Daten, setzen keine Cookies, laden nichts von fremden
 Musterstadt, der Kreis Muster, die Datenzentrale Rheinland-Mitte sowie alle Personen, Anschriften und Rufnummern sind frei erfunden. Ähnlichkeiten mit realen Orten oder Personen sind zufällig.
 Die Inhalte dieser Website wurden mit Unterstützung eines KI-Sprachmodells (Claude, Anthropic) erstellt.
 
+## Lizenz
+
+Der Code (HTML, CSS, JavaScript) steht unter der PolyForm Noncommercial License 1.0.0, Teil 1 der Datei `LICENSE`. Die Inhalte (Texte, Bilder, PDFs) stehen unter CC BY-NC-SA 4.0, Teil 2 derselben Datei. Namensnennung: „Musterstadt“ von dirtdiver419.
+
 ---
 
 # Stadt Musterstadt (fictional)
@@ -39,3 +43,7 @@ The pages store no data, set no cookies, load nothing from third-party servers a
 
 Musterstadt, the Kreis Muster, the Datenzentrale Rheinland-Mitte and all people, addresses and phone numbers are invented. Any resemblance to real places or people is coincidental.
 The content of this website was created with the assistance of an AI language model (Claude, Anthropic).
+
+## License
+
+The code (HTML, CSS, JavaScript) is licensed under the PolyForm Noncommercial License 1.0.0, part 1 of the `LICENSE` file. The content (texts, images, PDFs) is licensed under CC BY-NC-SA 4.0, part 2 of the same file. Attribution: "Musterstadt" by dirtdiver419.
